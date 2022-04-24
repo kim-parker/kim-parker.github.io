@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(118, 216, 216);
+       
+   }
+
+   h1  {
+       font-size: 60pt;
+       margin-bottom: 100px;
+       text-align: center;
+       font-family: 'Indie Flower', cursive;
+       font-family: 'Lobster', cursive;
+   }
+    h2 {
+        font-size: 30pt;
+        text-align: left;
+        font-family: 'Indie Flower', cursive;
+        font-family: 'Lobster', cursive;
+   }
+   h3 {
+       font-size: 20pt;
+       text-align: justify;
+       font-family: monospace;
+   }
+       
+    p {
+        font-size: 15pt;
+        font-family: Trebuchet MS;
+    }
+
+
