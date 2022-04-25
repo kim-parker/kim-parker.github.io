@@ -15,6 +15,11 @@ body {
         margin: 1.5%;
         text-align: center
     }
+
+    .header {
+        padding: 20px;
+    }
+
       
     h2 {
         font-size: 30pt;
@@ -38,5 +43,21 @@ body {
     .blue-text {
         color: blue;
     }
+    .column {
+        float: left;
+        width: 22.33%;
+        padding: 50px;
+              
+    }
+
+    figure {
+           
+        text-align: center;
+        font-style: italic;
+        font-family: Trebuchet
+        font-size: 15pt;
+                
+       
+      }
 
 
