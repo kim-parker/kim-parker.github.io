@@ -1,0 +1,21 @@
+
+body
+     {
+     background-color: #e1d0d0;
+    text-align: center;
+    border: double;
+    font-size: 15pt;
+    font-family: Verdana;
+     }
+
+
+      h1  {
+        font-size: 30pt;
+        margin-bottom: 100px;
+        text-align: center;
+
+      }
+
+    h2
+    {
+        font-size: 20pt;}
