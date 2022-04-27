@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(209, 241, 241);
+    background-color: rgb(127, 230, 230);
        
    }
 
    h1  {
-       font-size: 60pt;
+       font-size: 50pt;
        margin-bottom: 100px;
        text-align: center;
        font-family: 'Indie Flower', cursive;
@@ -55,9 +55,12 @@ body {
         text-align: center;
         font-style: italic;
         font-family: Trebuchet
-        font-size: 15pt;
+       
+    
+        
+    }
                 
        
-      }
+      
 
 
